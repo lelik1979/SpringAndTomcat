@@ -47,6 +47,6 @@
   </dependencies>
 
   <build>
-    <finalName>com</finalName>
+    <finalName>springTomcat</finalName>
   </build>
 </project>
